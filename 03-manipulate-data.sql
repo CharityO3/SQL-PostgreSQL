@@ -1,0 +1,31 @@
+-- INSERT INTO events (
+--     name,
+--     date_planned, 
+--     description, 
+--     max_participants,
+--     min_age
+--     )
+-- VALUES (
+--     'A first event',
+--     '2022-10-29 16:30:00',
+--     'This is the description of this first event.',
+--     20,
+--     18 ),
+--     (
+--     'A second event',
+--     '2022-05-29 12:30:00',
+--     'This is the description of this second event.',
+--     10,
+--     22   
+-- );
+-- UPDATE events
+-- SET min_age = 16, 
+-- max_participants = 22 
+-- WHERE id = 2;
+-- UPDATE events
+-- SET min_age = 16, 
+-- max_participants = 50 
+-- WHERE id = 1;
+
+-- DELETE FROM events
+-- WHERE id > 2;
