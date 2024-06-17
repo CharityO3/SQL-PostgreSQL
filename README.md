@@ -10,7 +10,8 @@
 
 
 
-**Planning The Data Entities, Relationship & Tables**
+**Planning The Data Entities, Relationship & Tables:**
+
 
 ![image](https://github.com/CharityO3/SQL-PostgreSQL/assets/79048698/eb678d7e-8ff2-4d0a-8405-72510d0173ae)
 
