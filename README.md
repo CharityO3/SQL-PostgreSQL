@@ -2,6 +2,8 @@
 
 **Creating and manipulating data with SQL & PostgreSQL**
 
+Here is an example of what we plan to create:
+
 
 
 ![image](https://github.com/CharityO3/SQL-PostgreSQL/assets/79048698/d522f3e3-3784-445f-8cf7-ef281521129b)
